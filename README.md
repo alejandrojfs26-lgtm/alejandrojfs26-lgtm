@@ -1,6 +1,6 @@
 # 👋 Hola, soy Alejandro Fuentes
 
-Desarrollador full-stack de México, apasionado por Python, IA, y construir herramientas útiles.
+Desarrollador venezolano en España, apasionado por Python, IA, y construir herramientas útiles.
 
 ## 🚀 Tecnologías
 
